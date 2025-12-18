@@ -1,8 +1,8 @@
-# LifePrint 🌟
+# LifePrint 
 
 A comprehensive personal wellness and self-discovery platform that helps users understand themselves better through personality assessments, nutrition tracking, story journaling, and future goal planning.
 
-## 🚀 Features
+##  Features
 
 ### Core Modules
 
@@ -31,7 +31,7 @@ A comprehensive personal wellness and self-discovery platform that helps users u
   - Trend analysis
   - Key insights dashboard
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **Backend**: PHP 7.4+
@@ -40,7 +40,7 @@ A comprehensive personal wellness and self-discovery platform that helps users u
 - **Icons**: Font Awesome 6
 - **Notifications**: SweetAlert2
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -87,7 +87,7 @@ A comprehensive personal wellness and self-discovery platform that helps users u
    
    Open your browser and navigate to: `http://localhost:8000`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 LifePrint/
@@ -118,14 +118,14 @@ LifePrint/
 └── README.md
 ```
 
-## 🔐 Security
+##  Security
 
 - Database credentials are stored in environment variables
 - Passwords are hashed using PHP's `password_hash()`
 - PDO prepared statements prevent SQL injection
 - XSS protection through output encoding
 
-## 🌐 Deployment
+## Deployment
 
 ### Server Requirements
 
@@ -148,7 +148,7 @@ LifePrint is fully responsive and works on:
 - Tablet (768px - 1199px)
 - Mobile (320px - 767px)
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -156,16 +156,16 @@ LifePrint is fully responsive and works on:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+##  Author
 
 **Athanase Abayo**
-- GitHub: [@athanase-abayo](https://github.com/athanase-abayo)
+- GitHub: [@athanase02](https://github.com/athanase02)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Font Awesome for icons
 - Google Fonts (Inter) for typography
